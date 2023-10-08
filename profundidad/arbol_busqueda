@@ -1,0 +1,92 @@
+digraph {
+	inicio_0 [label=inicio_0]
+	izquierda_1 [label=izquierda_1]
+	inicio_0 -> izquierda_1
+	abajo_2 [label=abajo_2]
+	inicio_0 -> abajo_2
+	derecha_3 [label=derecha_3]
+	inicio_0 -> derecha_3
+	derecha_3 [label=derecha_3]
+	derecha_7 [label=derecha_7]
+	derecha_3 -> derecha_7
+	abajo_8 [label=abajo_8]
+	derecha_3 -> abajo_8
+	abajo_8 [label=abajo_8]
+	abajo_9 [label=abajo_9]
+	abajo_8 -> abajo_9
+	derecha_11 [label=derecha_11]
+	abajo_8 -> derecha_11
+	izquierda_12 [label=izquierda_12]
+	abajo_8 -> izquierda_12
+	izquierda_12 [label=izquierda_12]
+	abajo_13 [label=abajo_13]
+	izquierda_12 -> abajo_13
+	izquierda_15 [label=izquierda_15]
+	izquierda_12 -> izquierda_15
+	izquierda_15 [label=izquierda_15]
+	abajo_17 [label=abajo_17]
+	izquierda_15 -> abajo_17
+	arriba_20 [label=arriba_20]
+	izquierda_15 -> arriba_20
+	arriba_20 [label=arriba_20]
+	abajo_17 [label=abajo_17]
+	derecha_26 [label=derecha_26]
+	abajo_17 -> derecha_26
+	abajo_27 [label=abajo_27]
+	abajo_17 -> abajo_27
+	abajo_27 [label=abajo_27]
+	abajo_30 [label=abajo_30]
+	abajo_27 -> abajo_30
+	derecha_32 [label=derecha_32]
+	abajo_27 -> derecha_32
+	derecha_32 [label=derecha_32]
+	arriba_34 [label=arriba_34]
+	derecha_32 -> arriba_34
+	derecha_35 [label=derecha_35]
+	derecha_32 -> derecha_35
+	abajo_36 [label=abajo_36]
+	derecha_32 -> abajo_36
+	abajo_36 [label=abajo_36]
+	izquierda_37 [label=izquierda_37]
+	abajo_36 -> izquierda_37
+	derecha_39 [label=derecha_39]
+	abajo_36 -> derecha_39
+	derecha_39 [label=derecha_39]
+	derecha_41 [label=derecha_41]
+	derecha_39 -> derecha_41
+	arriba_44 [label=arriba_44]
+	derecha_39 -> arriba_44
+	arriba_44 [label=arriba_44]
+	derecha_46 [label=derecha_46]
+	arriba_44 -> derecha_46
+	arriba_47 [label=arriba_47]
+	arriba_44 -> arriba_47
+	arriba_47 [label=arriba_47]
+	derecha_49 [label=derecha_49]
+	arriba_47 -> derecha_49
+	izquierda_52 [label=izquierda_52]
+	arriba_47 -> izquierda_52
+	izquierda_52 [label=izquierda_52]
+	derecha_49 [label=derecha_49]
+	abajo_57 [label=abajo_57]
+	derecha_49 -> abajo_57
+	arriba_59 [label=arriba_59]
+	derecha_49 -> arriba_59
+	derecha_60 [label=derecha_60]
+	derecha_49 -> derecha_60
+	derecha_60 [label=derecha_60]
+	arriba_61 [label=arriba_61]
+	derecha_60 -> arriba_61
+	abajo_63 [label=abajo_63]
+	derecha_60 -> abajo_63
+	abajo_63 [label=abajo_63]
+	izquierda_65 [label=izquierda_65]
+	abajo_63 -> izquierda_65
+	abajo_66 [label=abajo_66]
+	abajo_63 -> abajo_66
+	abajo_66 [label=abajo_66]
+	izquierda_70 [label=izquierda_70]
+	abajo_66 -> izquierda_70
+	izquierda_70 [label=izquierda_70]
+	solucion_70 [label=solucion_70]
+}
